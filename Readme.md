@@ -8,3 +8,5 @@ https://github.com/andyclymer/kerntroller
 Street Fighter II art from the Tiger LCD game, shared by Sean Riddle:
 http://seanriddle.com/streetfighterii.html
 (Creative Commons Attribution 3.0 Unported License)
+
+![Alt text](/KernFighter-Two.png)
